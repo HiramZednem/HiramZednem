@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @HiramZednem
+- 👀 I’m interested in backend with JS...
+- 🌱 I’m currently learning JAVA with SPRINGBOOT  ...
+- 📫 How to reach me? https://www.linkedin.com/in/hiram-m%C3%A9ndez-b2ab8416b/ ...
+
+<!---
+HiramZednem/HiramZednem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
