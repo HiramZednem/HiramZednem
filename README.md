@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @HiramZednem
-- 👀 I’m interested in frontend with javascript...
-- 🌱 I’m currently learning Angular  ...
-- 📫 How to reach me? https://www.linkedin.com/in/hiram-m%C3%A9ndez-b2ab8416b/ ...
-
-<!---
-HiramZednem/HiramZednem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Data Analyst Projects
+- 🌱 I’m currently learning R
+- 📫 How to reach me? https://www.linkedin.com/in/hiramzednem/
